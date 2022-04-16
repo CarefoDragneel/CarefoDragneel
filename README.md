@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour tous le mond, Apoorv here</h1>
-<h3 align="center">I am a voracious learner with interest in coding.</h3>
+<h3 align="center">/* I am a voracious learner with interest in coding. */</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
 
 - 🔭 I’m currently working on **Trackbuddy**
