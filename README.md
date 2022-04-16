@@ -1,18 +1,21 @@
-<h1 align="center">Bonjour tous le monde 👋🏼,  C’est Apoorv </h1>
-<h3 align="center">/* I am a voracious learner with deep interest in coding. */</h3>
+<h1 align="center">Bonjour tous le mond, Apoorv here</h1>
+<h3 align="center">I am a voracious learner with interest in coding.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif">
 
 - 🔭 I’m currently working on **Trackbuddy**
 
 - 🌱 I’m currently learning **Android development thorough java**
 
-- 💬 Ask me about **Java and Android Development**
+- 💬 Ask me about **Java, Android Development and FrontEnd**
 
 - 📫 How to reach me **apoorv.pranjal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/apoorv-pranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apoorv-pranjal" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/a.p.t.r.o.n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.p.t.r.o.n/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/carefo_dragnel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/carefo_dragnel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/carefo_dragneel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/carefo_dragneel/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
