@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Trackbuddy**
 
-- 🌱 I’m currently learning **Android development thorough java**
+- 🌱 I’m currently learning **Android development through java**
 
 - 💬 Ask me about **Java, Android Development and FrontEnd**
 
