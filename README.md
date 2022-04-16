@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android development through java**
 
-- 💬 Ask me about **Java, Android Development and FrontEnd**
+- 💬 Ask me about **Java and Android Development**
 
 - 📫 How to reach me **apoorv.pranjal@gmail.com**
 
